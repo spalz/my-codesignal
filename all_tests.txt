@@ -1,0 +1,146 @@
+Interview practice
+    Data Structures
+        Arrays
+            1_firstDuplicate | Easy
+            2_firstNotRepeatingCharacter | Easy
+            3_rotateImage | Easy
+            4_sudoku2 | Easy
+            5_isCryptSolution | Easy
+        Linked Lists
+            6_removeKFromList | Easy
+            7_isListPalindrome | Easy
+            8_addTwoHugeNumbers | Easy
+            9_mergeTwoLinkedLists | Medium
+            10_reverseNodesInKGroups | Hard
+            11_rearrangeLastN | Hard
+        Hash Tables
+            12_groupingDishes | Easy
+            13_areFollowingPatterns | Easy
+            14_containsCloseNums | Medium
+            15_possibleSums | Hard
+            16_swapLexOrder | Hard
+        Trees: Basic
+            17_hasPathWithGivenSum | Easy
+            18_isTreeSymmetric | Easy
+            19_findProfession | Easy
+            20_kthSmallestInBST | Medium
+            21_isSubtree | Medium
+            22_restoreBinaryTree | Hard
+            23_findSubstrings | Hard
+            24_deleteFromBST | Medium
+        Heaps, Stacks, Queues
+            25_kthLargestElement | Easy
+            26_simplifyPath | Easy
+            27_decodeString | Easy
+            28_nextLarger | Easy
+            29_minimumOnStack | Easy
+            30_countClouds | Medium
+            31_nearestGreater | Hard
+        Graphs
+            32_hasDeadlock | Medium
+            33_singlePointOfFailure | Medium
+            34_feedingTime | Medium
+            35_flightPlan | Hard
+            36_currencyArbitrage | Hard
+        Trees: Advanced
+            37_treeDiameter | Easy
+            38_mostFrequentSum | Hard
+            39_networkWires | Hard
+            40_hierarchiesCount | Hard
+
+    Sorting & Searching
+        Depth-First Search & Breadth-First Search
+            41_traverseTree | Easy
+            42_largestValuesInTreeRows | Easy
+            43_digitTreeSum | Medium
+            44_longestPath | Hard
+            45_graphDistances | Hard
+        Backtracking
+            46_climbingStaircase | Medium
+            47_nQueens | Hard
+            48_sumSubsets | Hard
+            49_wordBoggle | Medium
+            50_combinationSum | Hard
+        Sorting
+            51_bubbleSort | Easy
+            52_mergeSort | Easy
+            53_mergeKArrays | Easy
+            54_quickSort | Easy
+            55_higherVersion2 | Easy
+            56_sortByString | Easy
+            57_sortedSquaredArray | Easy
+
+    Dynamic Programming
+        Dynamic Programming: Basic
+            58_climbingStairs | Easy
+            59_houseRobber | Medium
+            60_composeRanges | Easy
+            61_mapDecoding | Hard
+            62_fillingBlocks | Hard
+        Dynamic Programming: Advanced
+            63_maximalSquare | Hard
+            64_regularExpressionMatching | Easy
+            65_paintHouses | Hard
+            66_longestIncreasingSubsequence | Hard
+            67_kpalindrome | Hard
+
+    Special Topics
+        Common Techniques: Basic
+            68_containsDuplicates | Easy
+            69_sumOfTwo | Easy
+            70_sumInRange | Medium
+            71_arrayMaxConsecutiveSum2 | Easy
+            72_findLongestSubarrayBySum | Medium
+            73_productExceptSelf | Hard
+            74_minSubstringWithAllChars | Easy
+        Strings
+            75_amendTheSentence | Easy
+            76_strstr | Easy
+            77_classifyStrings | Easy
+            78_textJustification | Easy
+            79_regexMatching | Hard
+            80_longestCommonSubstring | Hard
+        Bits
+            81_singleNumber | Easy
+            82_insertBits | Easy
+            83_numberOf1Bits | Easy
+            84_bitsToFloat | Easy
+            85_streamValidation | Easy
+        Common Techniques: Advanced
+            86_repeatedDNASequences | Medium
+            87_countSmallerToTheRight | Medium
+            88_getSkyline | Hard
+            89_bomber | Hard
+            90_countInversions | Hard
+        RegEx
+            91_isSentenceCorrect | Easy
+            92_swapAdjacentWords | Easy
+            93_nthNumber | Easy
+            94_repetitionEncryption | Easy
+
+    Math
+        Number Theory
+            95_missingNumber | Easy
+            96_simplifyRational | Easy
+            97_modInverse | Medium
+            98_minimumNumberOfBoxes | Hard
+            99_primesSum2 | Medium
+        Counting
+            100_pressingButtons | Easy
+            101_stringPermutations | Easy
+            102_differentPlaylists | Easy
+            103_knightOnBoardProbability | Hard
+            104_goodStringsCount | Medium
+            105_permutationSequence | Hard
+        Geometry
+            106_lazyCutter | Easy
+            107_squaresUnderQueenAttack | Easy
+            108_isRectangle | Medium
+            109_visiblePoints | Medium
+            110_calculateBasins | Hard
+
+Name
+Group
+Category
+Status
+Result
